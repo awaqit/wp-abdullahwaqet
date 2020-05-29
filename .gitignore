@@ -57,6 +57,5 @@ wp-includes/
 /xmlrpc.php
 text.php
 .bash_history
-wp-content/wphb-cache/index.html
-wp-content/wphb-cache/wphb-cache.php
-wp-content/wphb-logs/page-caching-log.php
+wp-content/wphb-cache/
+wp-content/wphb-logs/
