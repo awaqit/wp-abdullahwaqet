@@ -57,3 +57,4 @@ wp-includes/
 /xmlrpc.php
 text.php
 .bash_history
+wp-content/wphb-cache/index.html
